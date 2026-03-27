@@ -4,16 +4,16 @@ This project generates synthetic credit data, trains a PD model, evaluates perfo
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 Credit risk modeling is essential for determining the likelihood that a borrower will default on a loan.  
 This project demonstrates a clean, modular, and extensible PD model pipeline that includes:
 
-- ✅ Synthetic credit applicant data generation  
-- ✅ Logistic Regression model training  
-- ✅ Model evaluation (Classification Report & AUC Score)  
-- ✅ ROC Curve visualization  
-- ✅ Modular code architecture suitable for production and GitHub portfolios  
+- Synthetic credit applicant data generation  
+- Logistic Regression model training  
+- Model evaluation (Classification Report & AUC Score)  
+- ROC Curve visualization  
+- Modular code architecture suitable for production and GitHub portfolios  
 
 ---
 
-## 📁 Project Structure
+## Project Structure
